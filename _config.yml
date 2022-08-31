@@ -27,7 +27,7 @@ url: "https://simon-eklundh.github.io/" # the base hostname & protocol for your 
 github_username:  Simon-Eklundh
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
