@@ -4,3 +4,4 @@
 
 layout: home
 ---
+this is my index page for manga and shit
