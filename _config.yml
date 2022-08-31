@@ -28,7 +28,7 @@ github_username:  Simon-Eklundh
 show_downloads: true
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
