@@ -6,10 +6,8 @@ permalink: /
 ---
 Starting page
 
-# [media](categories/primarycategories.markdown)
-
-# Others (TODO)
+# [Media recommendations](categories/primarycategories.markdown)
 
 # Contact me:
 
-Simon.eklundh@gmail.com
+[Email](mailto:simon.eklundh+githubmanga@gmail.com)
