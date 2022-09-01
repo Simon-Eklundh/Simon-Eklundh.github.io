@@ -2,14 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default 
-permalink: /
+# permalink: /primary
 ---
-Starting page
 
-# [media](categories/primarycategories.markdown)
+# Western movies and series
 
-# Others (TODO)
+# Books
 
-# Contact me:
+# Manga
 
-Simon.eklundh@gmail.com
+# Manwa
+
+# Manhua
