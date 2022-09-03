@@ -3,8 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default 
 permalink: /
-title: some title
-description: some description
 ---
 Starting page
 
