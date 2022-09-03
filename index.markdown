@@ -4,6 +4,7 @@
 layout: default 
 permalink: /
 title: some title
+description: some description
 ---
 Starting page
 
