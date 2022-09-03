@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default 
 permalink: /
-header: potatoes
+# header: potatoes the header is visible in the tab
+title: some title
 ---
 Starting page
 
