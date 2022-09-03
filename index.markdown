@@ -10,4 +10,4 @@ Starting page
 
 # Contact me:
 
-[Email](mailto:simon.eklundh+githubmanga@gmail.com)
+## [Email](mailto:simon.eklundh+githubmanga@gmail.com)

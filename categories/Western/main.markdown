@@ -4,6 +4,8 @@
 
 # Detective
 
-# Action/adventure
+- # [Death in Paradise](series/DeathInParadise/deathInParadise.markdown)
 
-- # [Arcane](series/arcane.markdown) 
+# Action/adventure
+  
+- # [Arcane](series/Arcane/arcane.markdown) 
